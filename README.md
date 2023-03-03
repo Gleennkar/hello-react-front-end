@@ -131,7 +131,7 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+### 👥 Authors <a name="authors"></a>
 
 **Odette Gleen**
 
